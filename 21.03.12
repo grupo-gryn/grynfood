@@ -1,0 +1,13 @@
+## Versão 21.03.12
+### Notas de Revisão
+
+- Calcular tempo total estimado no cadastro da loja;
+- Melhorar exibição do endereço em dispositivos móveis;
+- Ajustes de layout e muddança na grossura dos ícones;
+- Corrreção do cálculo do valor total do pedido após aplicação do frete;
+- Melhorias na tela de acompanhamento dos pedidose adição da rotina de limpar o acompanhamento automaticamente;
+- Inclusão do agendamento de delivery;
+- Inclusão da flag que ativa o agendamento de delivery no cadastro da loja;
+- Ajustar disponibilização de horários para que o EC venda e agende entregas e retiradas até  o encerramento do funcionamento;
+- Adicionar relatório de vendas analítico (exibe os pedidos por dia);
+- Correácão da máscara do telefone no cadastro da loja;
