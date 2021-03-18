@@ -2,6 +2,8 @@
 
 Histórico de versões do grYnfood
 
+[Versão 21.03.18.2](/grynfood/21.03.18.2)
+
 [Versão 21.03.18.1](/grynfood/21.03.18.1)
 
 [Versão 21.03.18](/grynfood/21.03.18)
