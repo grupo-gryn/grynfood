@@ -1,5 +1,9 @@
 # Histórico de versões
 
+## Junho de 2021
+[Versão 21.06.10](/grynfood/21.06.10)
+
+
 ## Maio de 2021
 [Versão 21.05.07](/grynfood/21.05.07)
 
