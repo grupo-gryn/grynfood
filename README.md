@@ -1,6 +1,8 @@
 # Histórico de versões
 
 ## Junho de 2021
+[Versão 21.06.12](/grynfood/21.06.12)
+
 [Versão 21.06.10](/grynfood/21.06.10)
 
 
