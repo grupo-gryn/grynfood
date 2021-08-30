@@ -2,6 +2,8 @@
 
 
 ## Agosto de 2021
+[Versão 21.08.28](/grynfood/21.08.28)
+
 [Versão 21.08.16](/grynfood/21.08.16)
 
 [Versão 21.08.14](/grynfood/21.08.14)
