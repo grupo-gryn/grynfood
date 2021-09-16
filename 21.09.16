@@ -1,0 +1,12 @@
+## Versão 21.09.16
+### Notas de Revisão
+
+- Adicionar relatório de vendas com gráficos: por data, por modalidade de entrega e por forma de pagamento;
+- Adicionar relatório de vendas por itens com gráficos: por categorias e por produtos;
+- Adicionar relatório de repasses ao EC;
+- Exportação para Excel dos relatórios;
+- Alçadas na visão EC: Dono, Gestor e Atendente;
+- Cadastro de Parceiros Pagamento Online;
+- Cadastro de Contratos de Pagamento Online;
+- Retorno do acompanhamento de pedidos; e
+- Nova tela de confirmação do pedido.
